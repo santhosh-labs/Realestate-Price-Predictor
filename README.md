@@ -11,13 +11,13 @@ A machine learning project designed to predict real estate prices based on vario
 
 ## 📌 Table of Contents
 
-- [Project Introduction](#project-introduction)
-- [What This Does](#what-this-does)
-- [Source of Data](#source-of-data)
-- [Model Testing & Comparisons](#model-testing--comparisons)
-- [Example Results](#example-results)
-- [Clone This Repository](#Clone-This-Repository)
-- [Author](#Author)
+- Project Introduction  
+- What This Does  
+- Source of Data  
+- Model Testing & Comparisons  
+- Example Results  
+- Clone This Repository  
+- Author  
 
 ---
 
