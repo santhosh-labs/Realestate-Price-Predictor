@@ -86,7 +86,7 @@ predict_price('1st Phase JP Nagar', 1000, 2, 2)
 ## 🚀 Clone This Repository
 
 ```bash
-git clone https://github.com/santhosh-labs/zepto-sql-analysis.git
+git clone https://github.com/santhosh-labs/Realestate-Price-Predictor.git
 ```
 ---
 ## 👤 Author
